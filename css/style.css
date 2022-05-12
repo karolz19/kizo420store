@@ -2,8 +2,13 @@
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size:19px;
+    background-image: url('../images/rgb-rainbow.gif');
+    
 }    
-
+h1 {
+    margin-block-start: 0em;
+    margin-block-end: 0em;
+}
 ul {
     list-style-type: none;
     padding: 0px;
@@ -27,4 +32,13 @@ ul {
 .dropdown:hover .dropdown-c {
     display: block;
 }
-    
+
+.img1 {
+ 
+    margin: 20px;
+    width: 400px;
+    height: 300px;
+}
+body {
+    margin: 0px ;
+} 
